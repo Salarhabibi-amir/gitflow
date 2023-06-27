@@ -1,1 +1,2 @@
 # gitflow
+# author: Doug Linder
